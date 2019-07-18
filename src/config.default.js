@@ -1,8 +1,8 @@
 export default {
     server: {
-        type: "STU-3", // "DSTU-2" or "STU-3" or "R4"
+        type: "R4", // "DSTU-2" or "STU-3" or "R4"
 
-        url: "https://r3.smarthealthit.org",
+        url: "http://test.fhir.org/r4",
 
         conditions: {},
 
